@@ -1695,3 +1695,7 @@ input, select, textarea {
 a .code-button {
 	text-decoration: none;
 }
+
+.contact-info {
+	list-style-type: none;
+}
