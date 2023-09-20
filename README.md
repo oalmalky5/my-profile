@@ -26,7 +26,7 @@ To set up this project locally, follow these steps:
 
 ## Contact
 
-For any inquiries or collaboration opportunities, feel free to reach out to me at [your_email_here].
+For any inquiries or collaboration opportunities, feel free to reach out to me at [oalmalky5@gmail.com].
 
 Thank you for visiting my portfolio repository!
 
